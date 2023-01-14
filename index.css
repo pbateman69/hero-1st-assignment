@@ -1,0 +1,271 @@
+.container{
+    display: block;
+    background-image: url(../css/banner3.png);
+    width: 1600px;px;
+   height: 808px;
+    background-size: cover;
+    
+
+    
+}
+.button{
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    padding-top: 5px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: white;
+
+
+    font-family:'Work Sans';
+    text-align: center;
+    color: #005FAC;
+    font-weight: bold;
+
+}
+.para{
+    margin-left: 5px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 70px;
+    text-align: :left;
+   
+    
+    color: #FFFFFF;
+}
+.smol{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: white;
+display: block;
+margin-left: 5px;
+}
+.contain{
+    display: flex;
+    margin-top: 50px;
+}
+.msg{
+    margin-top: 250px;
+    margin-left: 200px;
+
+}
+.boro{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+display: block;
+
+
+}
+.future{
+    display: block;
+
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+.lol{
+    
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+display: block;
+}
+.plans {
+    display: block;
+    
+    margin-top: 150px;
+    margin-left: 600px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.im{
+    display:flex;
+   justify-content: space-evenly;
+}
+.fig{
+    display: flex;
+    justify-content: space-evenly;
+}
+.h2{
+    
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+
+}
+.h4{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #737272;
+
+}
+.watch{ 
+    display: block;
+    position: relative;
+    margin-top: 100px;
+width: 1140px;
+height: 300px;
+left: 130px;
+border-radius: 8px;
+background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);)
+}
+.footer {
+    margin-top: 200px;
+    width: 1600px;
+height: 600px;
+    background-color: black;
+
+}
+.last{
+    display: block;
+    margin-left: 100px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 500px;
+
+
+width: 148px;
+height: 100px;
+
+
+
+color: #F8F8F8;
+
+}
+.lost{
+    display: block;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+
+color: #FFFFFF;
+
+}
+.pic{
+    display: block
+    justify-content: space-evenly;
+}
+.subs{
+    display:inline-block
+    
+    
+    width: 123px;
+height: 29px;
+left: 1046px;
+top: 2781.96px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.rolex{
+    display: block;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: black
+
+}
+.boo{
+    display: block;
+    padding: 4px;
+    width: 140px;
+height: 50px;
+left: 294px;
+top: 2398.96px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #005FAC;
+
+
+}
+.subscribe{
+    width: 140.11px;
+height: 50px;
+left: 1046px;
+top: 2921.96px;
+background: #005FAC;
+border-radius: 8px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+}
+.box{
+  background:#151414;
+  width: 200px;
+  height: 40px;
+  left: 1046px;
+  top: 2841.96px;
+  top: 2862.96px;
+  padding: 0px;
+
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+ border-radius: 0px;
+ border-color: #F8F8F8;
+  
+  color: #F3F3F3;
+  
+}
+
